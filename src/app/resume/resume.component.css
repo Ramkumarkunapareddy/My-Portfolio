@@ -29,7 +29,7 @@
     justify-items: flex-start;
     font-size: 2rem !important;
     font-weight: 900;
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
     color: #555555;
     text-transform: uppercase !important;
     align-items: center;
@@ -161,6 +161,10 @@ hr {
   font-size: 20px;
   margin-top: 20px;
 }
+
+/* .profile_summary{
+  margin-top: 0px !important;
+} */
 
 .technical-skill {
   display: flex;
